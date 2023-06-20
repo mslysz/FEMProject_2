@@ -18,7 +18,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Screenshot
 
 ![](images/screenshot.jpg)
-[](images/screenshotmobile.jpg)
+![](images/screenshotmobile.jpg)
 
 ### Links
 
